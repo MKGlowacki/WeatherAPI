@@ -1,7 +1,7 @@
 # WeatherAPI
 Simple Weather API forecast app.
 
-Language: Java
+Programming language: Java
 
 Framework: Android Studio
 
